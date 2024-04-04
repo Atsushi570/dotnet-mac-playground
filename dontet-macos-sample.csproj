@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ApplicationId>com.company.appname</ApplicationId>
+    <TargetFramework>net8.0-macos</TargetFramework>
+    <RootNamespace>dontet_macos_sample</RootNamespace>
+    <OutputType>Exe</OutputType>
+    <Nullable>enable</Nullable>
+    <AssemblyName>appname</AssemblyName>
+    <ImplicitUsings>true</ImplicitUsings>
+    <SupportedOSPlatformVersion>10.15</SupportedOSPlatformVersion>
+    <CreatePackage>false</CreatePackage>
+  </PropertyGroup>
+</Project>
